@@ -28,7 +28,7 @@ Real-estate agency website with a **custom filterable property search** (by type
 - **Tech:** WordPress, PHP, MySQL, custom plugin, ACF
 - **Highlight:** Bespoke property-filter logic with clean, indexable URLs
 
-📸 `screenshots/tishak-*.png`
+![Tishak Properties homepage](screenshots/tishak-properties.png)
 
 ---
 
@@ -41,7 +41,7 @@ Marketing agency website with a custom theme, modern responsive layouts and perf
 - **Tech:** WordPress, PHP, JavaScript, CSS3
 - **Highlight:** Page load reduced from 5–6s to under 2s
 
-📸 `screenshots/disrupt-*.png`
+![The Disrupt Agency homepage](screenshots/the-disrupt-agency.png)
 
 ---
 
@@ -54,7 +54,7 @@ Industry-body platform with a **tiered membership system** and integrated **onli
 - **Tech:** WordPress, PHP, payment gateway integration
 - **Highlight:** Multi-tier membership with gated content & recurring donations
 
-📸 `screenshots/cannabiscf-*.png`
+![Cannabis CF homepage](screenshots/cannabis-cf.png)
 
 ---
 
@@ -67,7 +67,7 @@ Vehicle-transport and logistics website with enquiry workflows, service pages an
 - **Tech:** WordPress, PHP, custom enquiry forms
 - **Highlight:** Lead-capture workflows optimised for conversions
 
-📸 `screenshots/ttauto-*.png`
+![TT Auto Carriers homepage](screenshots/tt-auto-carriers.png)
 
 ---
 
@@ -80,7 +80,7 @@ Institutional site with admission and enquiry workflows, brochure downloads and 
 - **Tech:** WordPress, PHP, custom forms, media galleries
 - **Highlight:** Admission enquiry funnel + downloadable prospectus
 
-📸 `screenshots/shraddha-*.png`
+![Shraddha Institutions homepage](screenshots/shraddha-institutions.png)
 
 ---
 
@@ -93,7 +93,7 @@ School website with an information architecture built for parents and students �
 - **Tech:** WordPress, PHP, custom post types
 - **Highlight:** Parent/student-focused IA with events & galleries
 
-📸 `screenshots/vkis-*.png`
+![VKIS school website homepage](screenshots/vkis.png)
 
 ---
 
@@ -107,8 +107,3 @@ School website with an information architecture built for parents and students �
 
 **Ketan Gote** · WordPress Developer
 📧 ketangote2@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/ketan-gote-535b76111)
-
----
-
-### 📸 How to add screenshots
-Drop image files into the `screenshots/` folder (e.g. `tishak-home.png`, `tishak-search.png`) and they'll render in the sections above. Recommended: 1 or 2 clean screenshots per project.
